@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nest-puppeteer": "^1.1.1",
+    "puppeteer": "^21.6.1"
+  }
+}
